@@ -1,6 +1,6 @@
 # minerals
 Playing around with p5.js and WEBGL
 
-![No Material](http://i.imgur.com/XzGBLjj.gifv)
-![Material b/w](http://i.imgur.com/8ZBuAMT.gifv)
+![No Material](http://i.imgur.com/XzGBLjj.gif)
+![Material b/w](http://i.imgur.com/8ZBuAMT.gif)
 
