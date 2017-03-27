@@ -16,7 +16,7 @@ function draw(){
     translate(i,i,12);
     rotateY(frameCount*0.005);
     rotateX(frameCount*0.01);
-    cylinder(10+i, 200);
+    cylinder(8+i, 200);
   }
 
 }
