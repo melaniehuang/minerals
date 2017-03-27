@@ -10,6 +10,6 @@ function draw(){
     translate(i,i,10);
     rotateY(frameCount*0.005);
     rotateX(frameCount*0.01);
-    box(20,20,120)
+    cylinder(10+i, 200);
   }
 }
