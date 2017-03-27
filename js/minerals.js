@@ -1,3 +1,4 @@
+
 function setup() {
   createCanvas(windowWidth, windowHeight, WEBGL);
 }
@@ -5,11 +6,12 @@ function setup() {
 function draw(){
   background(0);
   translate(0,-200,0);
-  for(var i = 0; i < 10; i++){
+  for(var i = 0; i < 20; i++){
     noStroke();
-    translate(i,i,10);
+    translate(i,i,12);
     rotateY(frameCount*0.005);
     rotateX(frameCount*0.01);
-    cylinder(10+i, 200);
+    cylinder(12+i, 200);
   }
+
 }
