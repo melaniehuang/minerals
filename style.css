@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #000;
+  font-family: Titillium Web, sans-serif;
+  text-transform: uppercase;
+}
+
+#mineralsCanvas {
+  z-index:1;
+  position: absolute;
+}
+
